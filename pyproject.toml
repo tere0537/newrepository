@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "newrepository"
+version = "0.1.0"
+description = ""
+authors = ["tere0537 <tp1230147@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
